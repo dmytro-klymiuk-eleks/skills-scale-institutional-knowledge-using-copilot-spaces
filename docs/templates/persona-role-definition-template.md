@@ -1,5 +1,7 @@
 # Persona/Role Definition Template
 
+Use this template to define new personas/roles consistently across project documentation. Fill in each section with specific details for the role you're documenting.
+
 - Role name:
 - Purpose (why this role exists):
 - Responsibilities (bulleted):

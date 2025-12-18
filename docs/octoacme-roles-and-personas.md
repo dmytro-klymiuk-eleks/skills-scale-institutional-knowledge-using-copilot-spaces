@@ -58,5 +58,5 @@ How this improves outcomes:
 - Improves decision velocity via defined authorities and engagement points.
 - Raises quality and change readiness with formal roles and supporting checklists.
 
-References: See supporting checklists and templates in docs/.
+References: See supporting checklists in docs/checklists/ and templates in docs/templates/.
 
